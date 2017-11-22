@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-10-26 12:28-0500\n"
+"PO-Revision-Date: 2017-11-21 20:32-0500\n"
 "Last-Translator: german <buhonivalplus@gmail.com>\n"
 "Language-Team: Spanish (Colombia)\n"
 "X-Generator: Poedit 2.0.4\n"
@@ -6922,7 +6922,6 @@ msgstr "Lectura/Escritura"
 #. translators: 1: last access date 2: last access time
 #: includes/admin/class-wc-admin-api-keys-table-list.php:155
 #: includes/admin/settings/views/html-keys-edit.php:84
-#, fuzzy
 msgid "%1$s at %2$s"
 msgstr "%1$s a las %2$s"
 
@@ -8992,7 +8991,6 @@ msgstr "Invitado"
 
 #. translators: 1: order and number (i.e. Order #13) 2: user name
 #: includes/admin/class-wc-admin-post-types.php:640
-#, fuzzy
 msgid "%1$s by %2$s"
 msgstr "%1$s por %2$s"
 
@@ -22681,7 +22679,6 @@ msgstr "Producto con pocas existencias"
 
 #. translators: 1: product name 2: items in stock
 #: includes/class-wc-emails.php:486
-#, fuzzy
 msgid "%1$s is low in stock. There are %2$d left."
 msgstr "%1$s tiene poco stock. Quedan %2$d disponibles."
 
@@ -22978,7 +22975,6 @@ msgid "Premium support"
 msgstr "Soporte prémium"
 
 #: includes/class-wc-install.php:1065 includes/class-wc-install.php:1147
-#, fuzzy
 msgid ""
 "%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it "
 "manually by clicking here.</a>"
@@ -25337,9 +25333,8 @@ msgstr "Este método no se debe llamar antes plugins_loaded."
 #. translators: 1: credit card type 2: last 4 digits 3: expiry month 4: expiry
 #. year
 #: includes/payment-tokens/class-wc-payment-token-cc.php:45
-#, fuzzy
 msgid "%1$s ending in %2$s (expires %3$s/%4$s)"
-msgstr "%1$s terminando en %2$s (hasta %3$s/%4$s)"
+msgstr "%1$s termina en %2$s (hasta %3$s/%4$s)"
 
 #: includes/payment-tokens/class-wc-payment-token-echeck.php:41
 #: includes/wc-account-functions.php:239 includes/wc-account-functions.php:326
@@ -28034,9 +28029,8 @@ msgstr "No se ha hecho ningún pedido todavía."
 
 #. translators: 1: credit card type 2: last 4 digits
 #: templates/myaccount/payment-methods.php:52
-#, fuzzy
 msgid "%1$s ending in %2$s"
-msgstr "%1$s finalizando en %2$s"
+msgstr "%1$s termina en %2$s"
 
 #: templates/myaccount/payment-methods.php:73
 #, fuzzy
@@ -28500,7 +28494,6 @@ msgstr "producto"
 #. translators: 1: first name 2: last name
 #: includes/admin/class-wc-admin-post-types.php:631
 #: includes/class-wc-order.php:793 includes/class-wc-order.php:803
-#, fuzzy
 msgctxt "full name"
 msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
